@@ -7,4 +7,4 @@ python Dictionary.py
 ```
 
 ## Screenshot
-<img src='ss.JPG' height=400px>
+<img src='ss.JPG' height=200px>
